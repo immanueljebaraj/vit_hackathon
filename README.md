@@ -19,7 +19,7 @@ AgriFleet is a web-based dashboard system designed to monitor and manage a fleet
 - **Frontend**: React.js
 - **Backend**: Django REST Framework
 - **WebSocket**: Django Channels (for real-time updates)
-- **Map**: Leaflet.js / Google Maps API (for live tracking)
+- **Map**: Leaflet.js (for live tracking)
 
 ---
 
